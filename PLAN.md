@@ -7,7 +7,7 @@
 > daily slot **at most once per day**.
 > Last updated: 2026-10-18
 
-> The numbered decisions cited below (ADR-001 … ADR-018) are recorded in full in
+> The numbered decisions cited below (ADR-001 … ADR-019) are recorded in full in
 > [`docs/DECISIONS.md`](./docs/DECISIONS.md).
 
 ---

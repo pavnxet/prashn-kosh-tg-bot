@@ -267,7 +267,7 @@ prashn-kosh-tg-bot/
 ├── set_bot_token.py       # token-rotation helper (stdlib only, Python 3.8+)
 ├── .env.example
 ├── docs/
-│   └── DECISIONS.md       # architecture decision records (ADR-001 … ADR-018)
+│   └── DECISIONS.md       # architecture decision records (ADR-001 … ADR-019)
 ├── lib/
 │   ├── config.js          # .env loader + validated config (no deps)
 │   ├── logger.js          # leveled JSON logger with secret redaction
