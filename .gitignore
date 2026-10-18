@@ -1,0 +1,19 @@
+# Secrets & local state
+.env
+.env.local
+.env.*
+!.env.example
+*.log
+
+# Local project memory + agent protocol (never published)
+learning/
+AGENTS.md
+
+# Dependencies (none required at runtime, but keep safe)
+node_modules/
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/

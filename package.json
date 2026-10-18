@@ -1,0 +1,30 @@
+{
+  "name": "prashn-kosh-tg-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Prashn-Kosh TG Bot — daily previous-year-question poster for Telegram channels.",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js",
+    "check": "node src/index.js --once",
+    "migrate": "node migrations/run.js",
+    "migrate:apply": "node migrations/run.js --apply",
+    "test": "node --test"
+  },
+  "keywords": [
+    "prashn-kosh",
+    "telegram-bot",
+    "pyq",
+    "turso",
+    "j7-max"
+  ],
+  "author": "Pavneet Singh",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {}
+}
